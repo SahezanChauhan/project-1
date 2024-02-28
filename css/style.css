@@ -1,0 +1,113 @@
+*{
+    background-color: purple;
+    margin: 0px;
+    padding: 0px;
+}
+.main_div{
+    width: 800px;
+    height: 600px;
+    background-color: rgb(202, 196, 202);
+    margin: 80px 50px 50px 350px;
+    position: relative;
+}
+
+.top-1{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: relative;
+}
+.top-11{
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    position: absolute;
+    top: 50px;
+    left: 45px;
+}
+
+.top-2{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: relative;
+}
+.top-22{
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    position: absolute;
+    top: 50px;
+    right: 45px;
+}
+.box2{
+    position: absolute;
+    left: 700px;
+    top: 0px;
+
+}
+
+.center-1{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: absolute;
+    top: 250px;
+    left: 5px;
+}
+.center-2{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: absolute;
+    top: 250px;
+    left: 360px;
+}
+.center-3{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: absolute;
+    top: 250px;
+    left: 695px;
+}
+
+
+.bott-1{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: relative;
+}
+
+.bott-11{
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    position: absolute;
+    top: -65px;
+    left: 50px;
+}
+.bot{
+    position: absolute;
+    left: 50;
+    top: 500px;
+}
+
+.bott-2{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: relative;
+    top: 400px;
+    left: 700px;
+}
+
+.sez-1{
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    position: absolute;
+    top: 440px;
+    right: 60px;
+}
